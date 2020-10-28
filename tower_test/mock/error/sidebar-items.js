@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Closed","Error yielded when a mocked service does not yet accept requests."]]});

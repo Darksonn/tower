@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["util","`util` exports an Identity Layer and Chain, a mechanism for chaining them."]],"trait":[["Layer","Decorates a `Service`, transforming either the request or the response."]]});

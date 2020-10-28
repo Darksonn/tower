@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ResponseFuture","Future of the `Mock` response."]]});
